@@ -2,9 +2,6 @@
 permalink: /course/
 title: "Coursework"
 author_profile: true
-redirect_from: 
-  - /course/
-  - /course.html
 ---
 
 ## Robotics and Control:
