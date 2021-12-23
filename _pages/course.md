@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 ## Reinforcement learning:
-* CS285, Deep Reinforcement Learning, [Prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (in progress)
+* CS285, Deep Reinforcement Learning, [Prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (*A+*)
 
 ## Optimization:
-* EECS227AT, Optimization Models in Engineering, [Prof. Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/)(in progress)
+* EECS227AT, Optimization Models in Engineering, [Prof. Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/)(*A*)
 
 ## Programming:
 * CS 61B, Data Structure, [Prof. Paul N. Hilfinger](https://www2.eecs.berkeley.edu/Faculty/Homepages/hilfinger.html) (Grade: *A*)
